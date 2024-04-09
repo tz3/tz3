@@ -1,10 +1,10 @@
 # Hi 👋, I'm Moutaz
 
-👨‍💻 Crypto Enthusiast | AI Enthusiast
+👨‍💻 Leetcode Enthusiast | AI Enthusiast
 
 - 🔭 👨‍💻 I’m currently Fullstack developer
 
-- 💬 Ask me about Blockchain, NFT, Web3, EVM, Solana, Rust, Golang and NodeJS
+- 💬 Ask me about Data-structures & Algorithims, Math, Golang and NodeJS
 
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/moutaz-chaara)

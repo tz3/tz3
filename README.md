@@ -2,7 +2,7 @@
 
 👨‍💻 Leetcode Enthusiast | AI Enthusiast
 
-- 🔭 👨‍💻 I’m currently Fullstack developer
+- 🔭 👨‍💻 I’m a Software Engineer (Mostly backend in Golang/Nodejs)
 
 - 💬 Ask me about Data-structures & Algorithims, Math, Golang and NodeJS
 

@@ -6,6 +6,7 @@
 
 - 💬 Ask me about Data-structures & Algorithims, Math, Golang and NodeJS
 
+- I LIKE CAMELS 🐪
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/moutaz-chaara)
 

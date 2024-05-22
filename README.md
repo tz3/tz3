@@ -8,7 +8,7 @@
 
 - I LIKE CAMELS 🐪
 ## Connect with me:
-- [LinkedIn](https://www.linkedin.com/moutaz-chaara)
+- [LinkedIn](https://www.linkedin.com/in/moutaz-chaara/)
 
 ## Languages and Tools:
 
@@ -17,18 +17,9 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org)
 
 ### Frontend
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=eed718)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
-
-### Blockchain
-[![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=3088de)](https://ethereum.org)
-[![Binance Smart Chain](https://img.shields.io/badge/Binance_Smart_Chain-000000?style=flat-square&logo=binance&logoColor=FFFF00)](https://www.binance.org/en/smartChain)
-[![Solana](https://img.shields.io/badge/Solana-000000?style=flat-square&logo=solana&logoColor=white)](https://solana.com/)
-[![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E57324)](https://www.rust-lang.org/)
 
 ### Database
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -44,7 +35,6 @@
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 
 

@@ -6,7 +6,7 @@
 
 - 💬 Ask me about Data-structures & Algorithims, Math, Golang and NodeJS
 
-- I LIKE CAMELS 🐪
+- With a love for camels 🐪, ice cream 🍦, and cycling 🚴.
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/moutaz-chaara/)
 

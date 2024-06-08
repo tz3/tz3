@@ -2,11 +2,11 @@
 
 👨‍💻 Leetcode Enthusiast | AI Enthusiast
 
-- 🔭 👨‍💻 I’m a Software Engineer (Mostly backend in Golang/Nodejs)
+- 🔭 I’m a Software Engineer (Mostly backend in Golang/Nodejs)
 
 - 💬 Ask me about Data-structures & Algorithims, Math, Golang and NodeJS
 
-- With a love for camels 🐪, ice cream 🍦, and cycling 🚴.
+- 🫶 With a love for camels 🐪, ice cream 🍦, and cycling 🚴.
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/moutaz-chaara/)
 

@@ -7,8 +7,10 @@
 - 💬 Ask me about Data-structures & Algorithims, Math, Golang and NodeJS
 
 - 🫶 With a love for camels 🐪, ice cream 🍦, and cycling 🚴.
-## Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/moutaz-chaara/)
+  
+## My Profiles:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moutaz-chaara/)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/xmotuaz/)
 
 ## Languages and Tools:
 
